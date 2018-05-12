@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Robert_Shea
 description: For every weapon there was a defense, but not against the deadliest weapon--man
   himself!
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29196#Mutineer
 gutenberg_bookshelf:
 - Science Fiction
 - Animal
